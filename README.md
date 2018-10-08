@@ -1,5 +1,5 @@
 # PSB
-Perfect Strategy Bot Release Descriptions and issues.
+Perfect Strategy Bot Release Descriptions and issues. This github account is used only to keep track on issues, requests and bugs.
 <br /><br />
 What is "Perfect Strategy Bot"?<br />
 <i>
@@ -9,5 +9,5 @@ Perfect Strategy Bot is a trading environment that aims to help the trader close
 <br /><br />
 Current version: 1.0<br />
 Current build: 2.4.2<br />
-<a href="http://www.perfectstrategybot.com/wiki/how-download-psb">Download Perfect Strategy Bot</a>
+<a href="https://www.perfectstrategybot.com/wiki/how-download-psb">Download Perfect Strategy Bot</a>
 
