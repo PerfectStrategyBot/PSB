@@ -8,6 +8,6 @@ Perfect Strategy Bot is a trading environment that aims to help the trader close
 <small>For more informations and documentation you can visit <a href="http://www.perfectstrategybot.com">Perfect Strategy Bot website</a>.
 <br /><br />
 Current version: 1.0<br />
-Current build: 2.4.3 <i>(8 October 2018)</i><br />
+Current build: 2.4.4 <i>(1 December 2018)</i><br />
 <a href="https://www.perfectstrategybot.com/wiki/how-download-psb">Download Perfect Strategy Bot</a>
 
